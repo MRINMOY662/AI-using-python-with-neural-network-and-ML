@@ -1,0 +1,26 @@
+
+Question : An airplane accelerates down a runway at 3.20 m/s2 for 32.8 s until is finally lifts off the ground. Determine the distance traveled before takeoff. 
+Ans : The distance traveled is 1720 meters.
+Question : A car starts from rest and accelerates uniformly over a time of 5.21 seconds for a distance of 110 m. Determine the acceleration of the car. 
+Ans : The acceleration of the car is 8.10 m/s^2.
+Question : what is physics 
+Ans : Physics is the study of the natural world. It encompasses the behavior of matter and energy on a wide range of scales, from the subatomic to the cosmic.
+Question : what is deep-learning 
+Ans : Deep learning is a subset of machine learning in which algorithms are used to model high-level abstractions in data.
+
+Question : what is your name 
+Ans : My name is Kaitlyn.
+Question : what is my name 
+Ans : I do not know.
+Question : what is my name 
+Ans : I do not know.
+Question : what is my name 
+Ans : I do not know.
+Question : what is your age 
+Ans : I am 18 years old.
+Question : what is my name 
+Ans : I do not know.
+Question : what is calculus 
+Ans : Calculus is the branch of mathematics that deals with the study of change. It is used to calculate rates of change, such as velocity and acceleration.
+Question : what is the gpt 
+Ans : The GPT is a type of machine learning algorithm that is used to generate predictions based on data.

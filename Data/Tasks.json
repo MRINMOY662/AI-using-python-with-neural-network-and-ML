@@ -1,0 +1,32 @@
+{   
+    "intents": [
+        {
+            "tag": "open",
+            "patterns": ["open", "launch", "start", "visit"
+            ],
+            "responses": ["open"
+            ]
+        },
+        {
+            "tag": "close",
+            "patterns": ["close", "turn off", "remove", "end"
+            ],
+            "responses": ["close"
+            ]
+        },
+        {
+            "tag": "whatsapp",
+            "patterns": ["whatsapp", "send message", "chat", "message"
+            ],
+            "responses": ["whatsapp"
+            ]
+        },
+        {
+            "tag": "hello",
+            "patterns": ["hello", "hii", "hey"
+            ],
+            "responses": ["Hello Sir", "What's Up Sir", "Hey, I'm waiting for you.", "Hello sir, how are you?"
+            ]
+        }
+    ]
+}

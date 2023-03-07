@@ -1,0 +1,46 @@
+
+User : Hello? 
+Jasper : Hello Sir, how are you
+User : How are you? 
+Jasper : Nothing out of ordinary, Thanks for asking.
+User : How old are you? 
+Jasper : I am 13.7 billion years old from the creation of the Universe.
+User : How are you? 
+Jasper : I'm fine, what about you?
+User : my name is Mrinmoy 
+Jasper : Nice to meet you Mrinmoy.
+User : my age is 16, please remember, how are you   
+User : what is your age 
+Jasper : I am 13.7 billion years old from the creation of the Universe.
+User : what is my name 
+Jasper : I don't know.
+User : remember my name is 
+Jasper : I remember your name is Mrinmoy.
+User : turn on the tv 
+Jasper : The tv is already on.
+User : open chrome 
+Jasper : Chrome is already open.
+User : close chrome 
+Jasper : Chrome is closed.
+User : open my pc 
+Jasper : I can't do that.
+User : close my pc 
+Jasper : I can't do that.
+User : why 
+Jasper : I don't know how.
+User : cos i don't program you like that 
+Jasper : I see.
+User : what is calculus 
+Jasper : Calculus is the branch of mathematics that deals with the study of change.
+User : what is the gpt 
+Jasper : I'm sorry, I don't know.
+User : what is opening 
+Jasper : The act of opening.
+User : close it 
+Jasper : It is closed.
+User : open 
+Jasper : It is already open.
+User : close it 
+Jasper : It is closed.
+User : open my pc 
+Jasper : I can't do that.
